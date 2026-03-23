@@ -1,0 +1,2 @@
+docker build -t todo .
+docker run -d -p 5000 todo
