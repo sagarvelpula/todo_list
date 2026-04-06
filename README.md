@@ -20,7 +20,8 @@ Users can add, manage, and track their daily tasks through a clean web interface
 
 https://todo-list-sagar.onrender.com
 
-##Screenshot
+## Screenshot
+
 <img width="1300" height="1216" alt="todo-list-sagar onrender com_" src="https://github.com/user-attachments/assets/a9af0b65-fb3b-4e3c-a3c0-c49a319696b7" />
 
 
